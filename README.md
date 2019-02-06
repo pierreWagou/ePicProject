@@ -1,5 +1,7 @@
 # ePicProject
 
+Interactive adventure type video game powered by Unity (C#)
+
 ## Website
 Go on http://wwwetu.utc.fr/~romonpie/ePicProject/launchpad.html
 
